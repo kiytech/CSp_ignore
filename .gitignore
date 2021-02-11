@@ -33,20 +33,23 @@
 # Debug files
 *.dSYM/
 
-#emacs buackup file
+# emacs buackup file
 *~
 
-#result files
+# result files
 /DefaultBuild
 
-#Smart Manual
+# Smart Manual
 /SmartManual Docs
 
-#setting of CS+
+# setting of CS+
 *.mtud
 *.rcpe
 
-#document
+# Backup files
+/trash
+
+# document
 *.pptx
 *.abs
 *.bin
@@ -54,5 +57,5 @@
 *.map
 *.orig
 
-#VScode
+# VScode
 .vscode
